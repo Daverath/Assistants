@@ -2,9 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/GuruBot/GuruBot/bin
-/GuruBot/.vs/GuruBot/v14
-/GuruBot/GuruBot/obj
 /NeverBoredBot/NeverBoredBot/bin
 /NeverBoredBot/.vs/NeverBoredBot/v14
 /NeverBoredBot/NeverBoredBot/obj
+/NeverBoredBot/.vs/config
+/NeverBoredBot/GuruBot/bin
+/NeverBoredBot/GuruBot/obj
